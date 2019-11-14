@@ -1,3 +1,7 @@
+-------------------------
+parallel_example
+
+-------------------------
 This is a small parallel programming experience for testing what the author has learned in the parallel program designing.
 
 There are mainly three topics which includes the calculation of pi、the test of SPECOMP2012 and the calculation of matrix.
