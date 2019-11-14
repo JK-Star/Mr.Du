@@ -10,4 +10,4 @@ As to the second, just test the SPECOMP2012 with different threads or setting th
 
 The last, may be the most familiar to us.The versions includes tranpose、blocked、openmp+tranpose and MPI.
 
-If anything wrong you find, welcome to correct me. Or you can reach me at Work2252702192@126.com.
+If anything wrong you find, welcome to correct me. Or you can reach me at Minglikesworking@163.com.
