@@ -46,7 +46,7 @@ Assuming the matrix $A * B = C$, all are square matrices, $A=1_{n*n}, B=2_{n*n}$
 
 
 # Acknowledgement
-If anything wrong you find, welcome to correct me. Or you can reach me at Minglikesworking@163.com.
+If anything wrong you find, welcome to correct me.
 
 
 
